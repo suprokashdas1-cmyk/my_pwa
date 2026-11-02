@@ -1,0 +1,17 @@
+{
+  "name": "মাধ্যমিক গণিত – শিখি, বুঝি, অনুশীলন করি (WBBSE Class 10)",
+  "short_name": "মাধ্যমিক গণিত",
+  "description": "পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE) দশম শ্রেণির গণিত প্রকাশ বইয়ের ২৬টি অধ্যায়, ১,৩৫২টি যাচাইকৃত প্রশ্ন ও ৪-ধাপ অ্যাডাপ্টিভ লার্নিং অ্যাপ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "lang": "bn-IN",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='36' fill='%231e3a8a'/><polygon points='96,32 160,152 32,152' fill='none' stroke='%232dd4bf' stroke-width='12'/><circle cx='96' cy='112' r='26' fill='none' stroke='%23fbbf24' stroke-width='10'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
